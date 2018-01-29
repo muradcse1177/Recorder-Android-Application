@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\d3380f882eb88422a1a890c918f0641b8f8eed5c\\output\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pararecord.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\src\\main\\res\\drawable\\pararecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pararecord_background.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\src\\main\\res\\drawable\\pararecord_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_progress_bar.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\src\\main\\res\\drawable\\record_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\para_seek.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\src\\main\\res\\drawable\\para_seek.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\37b46dff997ddb2e241c2c6b27cdaf925df25ed6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

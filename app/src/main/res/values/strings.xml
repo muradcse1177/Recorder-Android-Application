@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NSQMESS">No saved recordings</string>
+    <string name="PRBMMM">Pause</string>
+    <string name="RRBUTTON">Resume</string>
+    <string name="DFLNA">My Recording</string>
+    <string name="record_prompt">Tap the button to start recording</string>
+    <string name="toast_file_delete">%1$s successfully deleted</string>
+    <string name="toast_file_exists">The file %1$s already exists. Please choose a different file name.</string>
+    <string name="ytrefghgjhertgdsfds">Recording...</string>
+    <string name="DTDELETE">Confirm Delete...</string>
+    <string name="DTEXTDE">Are you sure you would like to delete this file?</string>
+    <string name="dfghjdfgfh">Share File</string>
+    <string name="app_name">Recorder</string>
+    <string name="action_licenses">Licenses</string>
+    <string name="action_settings">Settings</string>
+    <string name="ytrertyuy">Record</string>
+    <string name="poiuytfvb">Rename File</string>
+    <string name="poiuytfvbdfghgjhert">Options</string>
+    <string name="ytrefghgjhert">Share File</string>
+    <string name="ytrgdvcxbxasfasc">Rename File</string>
+    <string name="iyfgsdvcxbvc">Delete File</string>
+    <string name="iyfgsdvcxbvckjhkjghjghjgf">Cancel</string>
+    <string name="thtfgnbngfhqw">OK</string>
+    <string name="jtyrtdfgfqwert">Yes</string>
+    <string name="hjfghtgfvdfgbg">No</string>
+    <string name="jghfdxcvqetpoimg">Recording</string>
+    <string name="sendTo">Send to</string>
+    <string name="PHQK">pref_high_quality</string>
+    <string name="PHQT">High Quality Recording</string>
+    <string name="PHQD">Record in High Quality</string>
+    <string name="pref_about_key">pref_about</string>
+    <string name="pref_about_title">About</string>
+    <string name="erthiuywetgbnjf">Saved Recordings</string>
+    <string name="tyjtrherrtertery">Recording started</string>
+    <string name="toast_recording_finish">Recording saved to</string>
+    <string name="hjfghtrtrtutyirt">v%s</string>
+</resources>

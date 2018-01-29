@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\4dd04d00770859d542a6e673b1bf1c26e54131ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eb0d2c971294139e66c4212da454850a919ad61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\1c13e4dea4663010b7914be46371ccc95c121d9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70b5acf3797c4ea01c425e8d05fc194a0481f4bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\3010f8dfe5aa2f80125e932f494f57022c2b6b0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84806d7be5cdac58d6e273c8dc008ec89e61d65c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44fb3ff04ebe80d6dde8f845b1968aaab905ac7c">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4c55be1e21df8ba4db0292285d52bd007b4d5821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\783926fbc51baffe5b3e382e387131beab9ad328\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9687aabffde41e87a5720c54bb1db40243ae7f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\72621eefdb2e9d3fc8cb870f7b3f928333fce7de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd6411866f7285d3ac724e3e97e03df30f6a6f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\69463abc217635d29c4b0264dbb198adf803ec3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06e6f5cbdd080e65eabf3c2a99492152be4a41de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5f841a0afbaa03cd6f9de547f55f39682d1e6aec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\bd1e3fe0d80d46d1d2babd4ad582c67c20095ce2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7d92893453f24720764ce8d40368ab374ac2b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\eaade9f9a6b00642ab6a510c7a3f9cdb41999ec4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_497fc31579dcfc9290b92347f49e651187623df3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_e7f2d4fc531b8a42fee1b45d4cd3fac3b41d4d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\3262d927dbb4d9d508516a9b2a5b1e998d5c40c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bfe9a3077b736a593e743a4ac0eda395fa348a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\6ff0aabd04e1b0853929255be36bdfba42be63f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37aa1e65efe0837ffea46b1fbeac919ffc666536\classes.dex" />
+    </item>
+
+</items>

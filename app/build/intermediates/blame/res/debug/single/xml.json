@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filepaths.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\src\\main\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

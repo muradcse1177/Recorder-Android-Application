@@ -1,0 +1,7 @@
+#Mon Jan 29 12:10:35 BDT 2018
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f841a0afbaa03cd6f9de547f55f39682d1e6aec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4c55be1e21df8ba4db0292285d52bd007b4d5821\\classes.dex
+base.1=C\:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4c55be1e21df8ba4db0292285d52bd007b4d5821
+file.0=C\:\\Users\\HP\\AndroidStudioProjects\\SoundRecorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f841a0afbaa03cd6f9de547f55f39682d1e6aec\\classes.dex
